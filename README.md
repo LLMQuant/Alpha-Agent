@@ -11,7 +11,7 @@
 <img align="center" width="40%" alt="image" src="https://github.com/LLMQuant/AlphaAgent/blob/main/AlphaAgent.png">
 </div>
 
-**AlphaAgent** is a practical and adaptive multi-agent framework for real-world quantitative research and development. Built upon the principles of [RD-Agent(Q)](), it emphasizes **production-grade alpha discovery**, **market-aware modeling**, and **automated deployment**, leveraging live data streams, evolving knowledge bases, and robust backtesting infrastructure.
+**AlphaAgent** is a practical and adaptive multi-agent framework for real-world quantitative research and development. Built upon the principles of [RD-Agent(Q)](https://arxiv.org/abs/2505.15155), it emphasizes **production-grade alpha discovery**, **market-aware modeling**, and **automated deployment**, leveraging live data streams, evolving knowledge bases, and robust backtesting infrastructure.
 
 ---
 
